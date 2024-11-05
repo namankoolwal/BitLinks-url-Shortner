@@ -13,7 +13,7 @@ const page = () => {
   return (
     <main>
       <section className='grid grid-cols-2 h-screen bg-purple-100' style={{ height: 'calc(100vh - 4rem)' }}>
-        <div className='flex flex-col gap-4 items-center justify-center'>
+        <div className='flex flex-col gap-4 items-center justify-center text-center'>
           <p className={`font-bold text-lg ${poppins.className}`}>The Best URL Shortner in the market</p>
           <p>We are the most straightfordward URl Shortner in the World</p>
           <div>
