@@ -10,7 +10,7 @@ Welcome to **BitLinks**, a free and open-source URL shortener. BitLinks allows y
 ## 🛠 Technology Stack
 - **Frontend**: Next.js, React.js
 - **Styling**: Tailwind CSS
-- **Notifications**: React Toastify
+- **Notifications**: react-hot-toast
 
 ---
 
